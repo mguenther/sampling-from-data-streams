@@ -5,7 +5,7 @@ Sampling data from a continuous stream of data is a useful technique to efficien
 You'll find an implementation of a curtailed Bernoulli sampler in this repository (cf. `Curtailed
 `). You'll also find a small showcase that demonstrates the integration of this sampling strategy with a Kafka-based stream processor that consumes domain events.
 
-Have a look at the corresponding [blog](TBD) for a detailed explanation on the implemented sampling strategy.
+Have a look at the corresponding [blog](https://www.mguenther.net/2022/04/sampling_from_data_streams/index.html) for a detailed explanation on the implemented sampling strategy.
 
 ## License
 
